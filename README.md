@@ -1,4 +1,4 @@
-## Basic Automation Project
+## Locators and actions project
 
 #### Selenium Web Driver Structured Project
 

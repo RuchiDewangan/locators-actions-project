@@ -5,7 +5,7 @@
 	<artifactId>locators-actions-project</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>Basic Automation Project</name>
-	<description>Basic Structure for a Automation Tests</description>
+	<description>Basic Structure for a Automation Tests to demo Locators and Actions</description>
 
 	<properties>
 		<org.selenium-version>2.48.2</org.selenium-version>
